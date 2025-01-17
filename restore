@@ -1,0 +1,1 @@
+dotnet restore  # This restores NuGet packages and project dependencies.
